@@ -1,0 +1,24 @@
+.logindiv{
+    background-color: beige;
+    width: 25vw;
+    height: 55vh;
+    margin-top: 50px; 
+    margin-left: 500px; 
+
+}
+.loginform{
+    margin-left: 38px;
+}
+.h2{
+    text-align: center;
+    margin-right: 19px;
+
+}
+.loginbtn{
+    margin-left: 80px;
+  margin-top: 14px;
+  height: 5vh;
+  width:8vw;
+  background-color: blue;
+  color: white;
+}

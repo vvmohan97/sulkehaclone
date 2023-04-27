@@ -1,0 +1,28 @@
+.h{
+    text-align: center;
+    color: white;
+}
+.maindiv{
+    background-image: url("./images/aboutbg.png");
+    background-size:cover;
+    height: 60vh;
+    width: 100vw;
+}
+.maindivbtn{
+    background: none;
+    list-style-type: none;
+    background-color: none;
+    color: white;
+    border: 00px;
+    margin-left: 250px;
+    margin-top: 220px;
+}
+.para{
+    text-align: center;
+    margin-top: 10px;
+}
+.userdiv{
+    margin-left: 220px;
+    margin-top: 10px;
+    
+}
